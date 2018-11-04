@@ -1,0 +1,12 @@
+function che_mai_saralo_sto_numer() callbacks {
+    procedure caveghe_zo_uno();
+    procedure dividi_par_do();
+    function se_mia_pari_cio();
+    function se_mia_zero_ah();
+}
+
+main {
+    call res = che_mai_saralo_sto_numer();
+    write res;
+}    
+
